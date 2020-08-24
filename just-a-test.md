@@ -11,3 +11,5 @@ Some more docs.
 A change for v2.
 
 Another change.
+
+A minor change for 2.x.x.
