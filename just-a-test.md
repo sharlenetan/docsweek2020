@@ -10,6 +10,6 @@ Some more docs.
 
 A change for v2.
 
-Another change.
+Another change. That small change.
 
 A minor change for 2.x.x.
