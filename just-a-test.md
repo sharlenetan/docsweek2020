@@ -17,3 +17,6 @@ A minor change for 2.x.x.
 Checking if the updated credentials work...
 
 Another credential test.
+
+Another credential test 2.
+
