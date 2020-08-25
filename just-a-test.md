@@ -13,3 +13,5 @@ A change for v2.
 Another change. That small change.
 
 A minor change for 2.x.x.
+
+Checking if the updated credentials work...
