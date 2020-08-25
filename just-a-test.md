@@ -14,4 +14,4 @@ Another change.
 
 It's no longer a mess.
 
-He loves fish tacos.
+We all agreed; it was a magnificent evening.
