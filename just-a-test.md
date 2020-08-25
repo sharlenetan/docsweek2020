@@ -15,3 +15,5 @@ Another change. That small change.
 A minor change for 2.x.x.
 
 Checking if the updated credentials work...
+
+Another credential test.
